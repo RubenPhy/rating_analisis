@@ -1,2 +1,5 @@
 env_ratings
 old
+__pycache__
+plots
+models
