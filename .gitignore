@@ -1,4 +1,5 @@
 env_ratings
+.venv
 old
 __pycache__
 plots
